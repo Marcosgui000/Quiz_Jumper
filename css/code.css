@@ -1,0 +1,16 @@
+main{
+    float: left;
+    width: 100%;
+    margin-top: 60%;
+    text-align: center;   
+}
+main div{
+    width: 85%;
+
+    border: none;
+    border-radius: 50px;
+background-color: #e0ff00;
+}
+main div h2{
+    color: #2c333b;
+}
